@@ -1,0 +1,16 @@
+PODS:
+  - LRTorchUtil (0.1.0)
+
+DEPENDENCIES:
+  - LRTorchUtil (from `../`)
+
+EXTERNAL SOURCES:
+  LRTorchUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LRTorchUtil: 7a7063a406e94bbf29af6d1fc33bfe916213be0f
+
+PODFILE CHECKSUM: 8deca815e855ac6ffe9205ec38bc42ce8dda8ce2
+
+COCOAPODS: 1.10.1

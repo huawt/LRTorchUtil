@@ -1,0 +1,6 @@
+framework module LRTorchUtil {
+  umbrella header "LRTorchUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}
